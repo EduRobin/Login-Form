@@ -1,0 +1,58 @@
+
+
+
+
+.login-box {
+  background-color: black;
+  width: 280px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  color: white;
+}
+
+.login-box h1{
+  float: left;
+  font-size: 40px;
+  border-bottom: 6px solid orange;
+  margin: 50px;
+  padding: 13px 0;
+}
+
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid orange;
+}
+.textbox input{
+  border: none;
+  outline: none;
+background:none;
+  color: orange;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 10px;
+}
+.btn{
+  width: 100%;
+  background-color: orange;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+  margin: 12px 0;
+}
+
+.vypis {
+  color: red;
+}
+.vypis2 {
+  color: green;
+  font-size: 150px;
+}
+
+
